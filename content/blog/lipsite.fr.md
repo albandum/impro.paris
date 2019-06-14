@@ -1,6 +1,6 @@
 +++
 author = "LIP"
-categories = ["Hugo"]
+categories = ["LIP"]
 date = "2019-06-03"
 description = "Le site de la LIP se refait une beauté !"
 featured = "pic01.jpg"
