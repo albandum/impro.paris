@@ -1,8 +1,8 @@
 +++
 author = "LIP"
 categories = ["LIP", "recrutement"]
-date = "2019-06-13"
-description = "Les sessions de recrutement auront lieu du 1er au 4 septembre 2019 !"
+date = "2020-07-20"
+description = "Les sessions de recrutement auront lieu le lundi 31 août et mardi 1er septembre 2020 !"
 featured = "pic02.jpg"
 featuredalt = "Recrutement improvisation théâtrale"
 featuredpath = "date"
@@ -20,8 +20,8 @@ La LIP propose des spectacles pour tous les groupes de niveau tout au long de l�
 
 La LIP porte une attention poussée à la formation des joueurs, en organisant des ateliers hebdomadaires avec un formateur dédié par groupe tout au long de chaque trimestre, ainsi qu'une sélection de stages pour approfondir certaines approches de l'impro auprès de professeurs de référence !
 
-Et c’est aussi une ligue qui sait faire la fête 😉 La LIP a à cœur de réunir une communauté d'amateurs et de comédiens aguerris autour du plaisir de jeu!
+Et c’est aussi une ligue qui sait faire la fête 😉 La LIP a à cœur de réunir ! une communauté d'amateurs et de comédiens aguerris autour du plaisir de jeu!
 
 [Les inscriptions, c'est par ici !](https://www.improparis.com/inscription/)
 
-### Les sessions de recrutement auront lieu du 1er au 4 septembre 2019
+### Les sessions de recrutement auront lieu le lundi 31 août et mardi 1er septembre 2020
