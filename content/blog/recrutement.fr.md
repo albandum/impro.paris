@@ -20,7 +20,7 @@ La LIP propose des spectacles pour tous les groupes de niveau tout au long de l�
 
 La LIP porte une attention poussée à la formation des joueurs, en organisant des ateliers hebdomadaires avec un formateur dédié par groupe tout au long de chaque trimestre, ainsi qu'une sélection de stages pour approfondir certaines approches de l'impro auprès de professeurs de référence !
 
-Et c’est aussi une ligue qui sait faire la fête 😉 La LIP a à cœur de réunir ! une communauté d'amateurs et de comédiens aguerris autour du plaisir de jeu!
+Et c’est aussi une ligue qui sait faire la fête 😉 La LIP a à cœur de réunir une communauté d'amateurs et de comédiens aguerris autour du plaisir de jeu!
 
 [Les inscriptions, c'est par ici !](https://www.improparis.com/inscription/)
 
