@@ -1,8 +1,8 @@
 +++
 author = "LIP"
 categories = ["LIP", "recrutement"]
-date = "2020-07-20"
-description = "Les sessions de recrutement auront lieu le lundi 31 août et mardi 1er septembre 2020 !"
+date = "2021-07-20"
+description = "Les sessions de recrutement auront lieu le lundi 31 août et mardi 1er septembre 2021 !"
 featured = "pic02.jpg"
 featuredalt = "Recrutement improvisation théâtrale"
 featuredpath = "date"
@@ -24,4 +24,4 @@ Et c’est aussi une ligue qui sait faire la fête 😉 La LIP a à cœur de ré
 
 [Les inscriptions, c'est par ici !](https://www.improparis.com/inscription/)
 
-### Les sessions de recrutement auront lieu le lundi 31 août et mardi 1er septembre 2020
+### Les sessions de recrutement auront lieu le lundi 31 août et mardi 1er septembre 2021
